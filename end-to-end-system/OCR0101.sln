@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OCR0101", "OCR0101\OCR0101.vcxproj", "{65377C58-2B51-42C5-BA36-5DC9528D38EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "解决方案项目", "解决方案项目", "{2B134B5B-928E-44F9-848E-BED52CCD077A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65377C58-2B51-42C5-BA36-5DC9528D38EF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{65377C58-2B51-42C5-BA36-5DC9528D38EF}.Debug|Win32.Build.0 = Debug|Win32
+		{65377C58-2B51-42C5-BA36-5DC9528D38EF}.Release|Win32.ActiveCfg = Release|Win32
+		{65377C58-2B51-42C5-BA36-5DC9528D38EF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
